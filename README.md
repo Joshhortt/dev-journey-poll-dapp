@@ -6,6 +6,8 @@ Welcome to the **Poll Dapp** tutorial! In this guide, you'll develop your first 
 
 ...and frontend canister development.
 
+![Poll Dapp Backend screenshot](Frontend-image.PNG)
+
 ---
 
 ## 🎓 **Beginner Level**  
