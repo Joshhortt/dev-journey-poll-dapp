@@ -1,6 +1,10 @@
 # Poll Dapp Tutorial
 
-Welcome to the **Poll Dapp** tutorial! In this guide, you'll develop your first decentralized application (dapp) using the Internet Computer. This dapp will allow users to vote on a poll, showcasing both backend and frontend canister development.
+Welcome to the **Poll Dapp** tutorial! In this guide, you'll develop your first decentralized application (dapp) using the Internet Computer. This dapp will allow users to vote on a poll, showcasing both backend:
+
+![Poll Dapp Backend screenshot](Backend-image.PNG)
+
+...and frontend canister development.
 
 ---
 
