@@ -12,8 +12,6 @@ Welcome to the **Poll Dapp** tutorial! In this guide, you'll develop your first 
 
 ## 🎓 **Beginner Level**  
 
-> **Note:** The video corresponding to this tutorial is outdated and follows a different project structure than what's described here.
-
 At this point, you should have a basic understanding of canister development and have deployed the default 'Hello, World' project. Now, let's dive deeper into coding by building a fully functional poll dapp!
 
 ---
